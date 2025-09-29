@@ -5,7 +5,7 @@
 - Create a motivational post website."
 
 **Links**
-  - Project URL: 
+  - Project URL: https://raptorff.github.io/Introducing-to-CSS/
 
 **What I learned**
 - CSS properties for fonts, images, colors...
